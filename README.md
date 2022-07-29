@@ -1,0 +1,2 @@
+# stack_implementation_using_array
+data sturcture
